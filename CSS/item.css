@@ -1,0 +1,16 @@
+.item {
+  position: relative;
+  overflow: hidden;
+}
+
+.item.small {
+  grid-row-end: span 6;
+}
+
+.item.medium {
+  grid-row-end: span 8;
+}
+
+.item.large {
+  grid-row-end: span 9;
+}

@@ -1,0 +1,17 @@
+.details {
+  position: absolute;
+  inset-block-end: 1rem;
+  inset-inline: 1rem;
+  color: var(--white);
+}
+
+.details h2 {
+  font: var(--body1-bold);
+  margin: 0;
+  margin-block-end: 4px;
+}
+
+.details h3 {
+  font: var(--body1-regular);
+  margin: 0;
+}
